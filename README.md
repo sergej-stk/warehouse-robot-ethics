@@ -1,6 +1,7 @@
-# Nuxt 3 Minimal Starter
+# warehouse-robot-ethics
+This repository contains a school project on ethics: a webpage about the ethical considerations and functionalities of a robot named WarehouseRobot, designed for warehouse operations. Written in NUXT/VUE.
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+![Preview](preview.png "Preview - WareHouseRobot-Web")
 
 ## Setup
 
